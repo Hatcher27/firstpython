@@ -1,2 +1,3 @@
-# firstpython
-my 1st pyton exercise
+# Display the output
+print("new python file")
+
